@@ -1,4 +1,4 @@
-# BIT 2118 Scientific Computing: Group Work (Individual Submission)
+# BIT 2118 Scientific Computing: Group Work
 
 Name: Rose  |  Course: BIT 2118 Scientific Computing  |  Mount Kenya University
 
