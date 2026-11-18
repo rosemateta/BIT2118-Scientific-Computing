@@ -1,0 +1,10 @@
+PART A: different observed totals
+Totals [20.0, 72.0] -> Type A=3.000, Type B=4.000
+Totals [26.0, 96.0] -> Type A=3.750, Type B=5.500
+Singular example (second row = 2 x first row):
+Error: Singular matrix
+
+PART B: circuit loop currents
+I1 = 1.1351 A, I2 = -0.1622 A
+Current through shared resistor = 1.2973 A
+Residual: [ 0.0000000e+00 -8.8817842e-16]

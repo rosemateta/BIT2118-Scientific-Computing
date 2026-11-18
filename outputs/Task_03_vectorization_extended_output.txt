@@ -1,0 +1,11 @@
+PART A: speed-up for different sizes
+N=    1,000: loop=0.00014s vectorized=0.000007s speed-up=19.3x
+N=  100,000: loop=0.01406s vectorized=0.001085s speed-up=13.0x
+N=1,000,000: loop=0.14752s vectorized=0.002112s speed-up=69.8x
+
+PART B: VAT and currency conversion
+First three prices (KES)     : [ 7553.79 12911.95 17123.32]
+First three totals with VAT  : [ 8762.39 14977.87 19863.05]
+First three totals (USD)     : [ 67.93 116.11 153.98]
+Total sales incl. VAT        : KES 11,629,201,400
+VAT collected                : KES 1,604,027,779

@@ -1,0 +1,9 @@
+PART A: circle radius 3, parabola y = x^2 - 1
+guess=[1.0, 1.0]: solution=[1.8364 2.3723], residual norm=2.0e-12, ok=True
+guess=[-1.0, 1.0]: solution=[-1.8364  2.3723], residual norm=2.0e-12, ok=True
+guess=[0.0, -3.0]: solution=[ 0. -3.], residual norm=2.0e+00, ok=False
+
+PART B: phone position from two towers
+guess=[3.0, 3.0]: position=(3.7500, 3.3072) km, residual norm=0.0e+00
+guess=[3.0, -3.0]: position=(3.7500, -3.3072) km, residual norm=0.0e+00
+Two answers are mirror images; a third tower would pick the correct one.

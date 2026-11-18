@@ -1,0 +1,11 @@
+PART A: Euler error at 30 min for different h (exact = 26.7760 C)
+h=5.0 : Euler=25.2662 C, error=1.5098 C
+h=1.0 : Euler=26.4041 C, error=0.3720 C
+h=0.1 : Euler=26.7378 C, error=0.0383 C
+
+PART B: logistic growth in a fish pond
+Month  6: Euler=  332.5, exact=  367.2
+Month 12: Euler=  853.0, exact=  864.8
+Month 18: Euler=  987.9, exact=  986.0
+Month 24: Euler=  999.2, exact=  998.7
+Month when Euler passes 500 fish: 8.0

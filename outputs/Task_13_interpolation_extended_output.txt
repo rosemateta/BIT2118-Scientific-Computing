@@ -1,0 +1,6 @@
+PART A original: at 11:30 linear=24.50 C, cubic=24.54 C
+PART A changed : at 11:30 linear=27.00 C, cubic=27.44 C
+
+PART B: missing soil moisture on day 4
+Linear estimate: 28.90 %
+Cubic spline   : 28.95 %

@@ -1,0 +1,8 @@
+PART A: effect of coefficient c
+c=10: bisection=27.525211 C (39 its), fixed-point=27.525211 C (12 its)
+c=20: bisection=29.561521 C (39 its), fixed-point=29.561521 C (16 its)
+
+PART B: bakery break-even
+Break-even at q = 29.04 loaves, revenue = KES 2871.06
+Break-even at q = 153.98 loaves, revenue = KES 6619.53
+Maximum daily profit near q = 84 loaves: KES 1237.81

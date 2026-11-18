@@ -1,0 +1,6 @@
+PART A: cost B=18: A=0.000, B=5.882, cost=105.88, success=True
+PART A: cost B=25: A=10.000, B=0.000, cost=120.00, success=True
+
+PART B: cheapest feed mix
+Success=True: Feed A=66.67 kg, Feed B=33.33 kg, cost=KES 4500.00
+Protein=25.00 kg, energy=293,333 kcal

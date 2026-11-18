@@ -1,0 +1,9 @@
+PART A: original vs heat spike
+Original: mean=23.12 C, max=29.40 C
+Changed : mean=23.56 C, max=40.00 C
+
+PART B: weekly rainfall
+Total rainfall   : 49.2 mm (1.94 in)
+Average per day  : 7.03 mm
+Wettest day      : day 5 with 25.4 mm
+Days with rain   : 4

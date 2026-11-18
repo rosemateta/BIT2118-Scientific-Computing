@@ -1,0 +1,12 @@
+PART A: error for different approximations of sqrt(2)
+approx=1.4       : absolute error=0.0142135624, relative error=1.005051%
+approx=1.414     : absolute error=0.0002135624, relative error=0.015101%
+approx=1.41421356: absolute error=0.0000000024, relative error=0.000000%
+
+PART B: adding 0.10 one thousand times
+Float sum          : 99.9999999999986
+Equal to 100?      : False
+np.isclose to 100? : True
+Absolute error     : 1.4068746168049984e-12
+math.fsum          : 100.0
+Decimal sum        : 100.00

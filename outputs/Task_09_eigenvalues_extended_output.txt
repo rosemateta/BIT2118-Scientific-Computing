@@ -1,0 +1,20 @@
+PART A: original network
+Dominant eigenvalue: 2.5616
+  A: 0.2192
+  B: 0.2808
+  C: 0.2808
+  D: 0.2192
+After adding link A-D (all nodes now equal):
+Dominant eigenvalue: 3.0000
+  A: 0.2500
+  B: 0.2500
+  C: 0.2500
+  D: 0.2500
+
+PART B: friendship network
+Dominant eigenvalue: 2.5616
+  Ann: 0.2808
+  Brian: 0.1798
+  Cate: 0.1798
+  Dan: 0.1798
+  Eve: 0.1798

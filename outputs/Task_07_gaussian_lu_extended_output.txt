@@ -1,0 +1,8 @@
+PART A: new measurement vector [20.  5.  0.]
+Solution: [5.7317 2.9268 0.9756]  residual norm: 1.831026719408895e-15
+
+PART B: spring-mass chain
+Forces on 4 masses: [5.118 9.505 1.442 9.486]
+Displacements     : [0.12271 0.19424 0.17073 0.1328 ] m
+300 force sets, n=400: np.linalg.solve each time=0.702s, LU factor once + reuse=0.028s
+Speed-up from reusing LU: 25.0x

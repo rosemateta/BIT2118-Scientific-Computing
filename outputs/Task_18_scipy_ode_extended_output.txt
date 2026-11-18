@@ -1,0 +1,8 @@
+PART A: R=1000 ohm, time constant=1 s, V at tau=3.161 V (63.2% of 5 V = 3.161), V at 10 s=5.000 V
+PART A: R=2000 ohm, time constant=2 s, V at tau=3.161 V (63.2% of 5 V = 3.161), V at 10 s=4.966 V
+
+PART B: SIR epidemic in a school
+R0 = beta/gamma = 3.5
+Peak infections: 357 students on day 32
+Total ever infected by day 120: 966
+Check S+I+R at the end = 1000.0

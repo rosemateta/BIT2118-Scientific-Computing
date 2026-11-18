@@ -1,0 +1,9 @@
+PART A: boundaries 200/50, tolerances 1e-4 and 1e-10
+tol=0.0001: Jacobi 90 iterations, Gauss-Seidel 46 iterations
+tol=1e-10: Jacobi 188 iterations, Gauss-Seidel 94 iterations
+Temperatures (Gauss-Seidel, tol 1e-10): [175. 150. 125. 100.  75.]
+
+PART B: rod with 20 points
+Jacobi iterations: 1709, Gauss-Seidel iterations: 860
+Max difference from direct solution (Gauss-Seidel): 4.389112149283392e-07
+Temperature at points 1, 10, 20: [144.29  92.86  35.71]

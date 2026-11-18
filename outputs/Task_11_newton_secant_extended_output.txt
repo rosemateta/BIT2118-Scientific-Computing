@@ -1,0 +1,8 @@
+PART A: IRR when investment rises
+Investment 10000: IRR Newton=11.5425% (4 its), Secant=11.5425% (7 its)
+Investment 12000: IRR Newton=3.3298% (5 its), Secant=3.3298% (7 its)
+
+PART B: loan interest rate
+Monthly rate Newton=1.2043%, Secant=1.2043%
+Nominal annual rate = 14.45%, effective annual = 15.45%
+Total repaid = KES 108,000, interest paid = KES 8,000

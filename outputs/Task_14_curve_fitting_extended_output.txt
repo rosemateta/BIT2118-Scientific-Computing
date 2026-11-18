@@ -1,0 +1,7 @@
+PART A linear   : RMSE=18.83 ms, prediction at 400 users=312.9 ms
+PART A quadratic: RMSE=1.55 ms, prediction at 400 users=377.9 ms
+
+PART B: user growth
+Fitted: y = 1.627 * exp(0.2420 x)
+RMSE = 0.040 thousand users; monthly growth = 27.4%
+Forecast month 10: 18.3 thousand users
